@@ -1,0 +1,6 @@
+name: EasySkills
+version: '${version}'
+main: de.onezerocoding.easyskills.EasySkills
+api-version: 1.19
+authors: [ B1tstorm ]
+description: A Plugin for everyone who wants a realitstic skillsystem. If you do something in reallife often, you get better. With this Plugin it works in Minecraft too!
