@@ -38,6 +38,7 @@ public final class EasySkills extends JavaPlugin {
 
     private void registerEvents() {
         //getServer().getPluginManager().registerEvents(new EventMyListener(), this);
+        getServer().getPluginManager().registerEvents(new BlockDestroyedEvent(), this);
     }
 
     private void registerCommands() {
